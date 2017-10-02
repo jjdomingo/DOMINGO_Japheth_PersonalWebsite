@@ -243,3 +243,15 @@ body {
 	height: 150px;
 	width: 150px;
 }
+#coder {
+	position: absolute;
+	height: 180px;
+	width: 180px;
+	top: 765px;
+	left: 830px;
+	z-index: 1;
+}
+#coderpic{
+	height: 180px;
+	width: 180px;
+}
