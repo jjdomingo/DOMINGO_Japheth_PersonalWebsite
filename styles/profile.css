@@ -218,3 +218,15 @@ body {
 	height: 120px;
 	width: 120px;
 }
+#guitar {
+	position: absolute;
+	height: 200px;
+	width: 200px;
+	top: 735px;
+	left: 400px;
+	z-index: 1;
+}
+#guitarpic{
+	height: 200px;
+	width: 200px;
+}
